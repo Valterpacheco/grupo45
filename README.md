@@ -3,49 +3,23 @@
 ---
 
 ## Atores
-
-1. **Administrador**  
-   - Responsável por gerenciar o sistema, incluindo criação, alteração e exclusão de usuários.
-
-2. **Funcionário**  
-   - Pode cadastrar, consultar e alterar informações de pessoas físicas e jurídicas.
-
-3. **Aluno**  
-   - Usuário que pode autenticar-se no sistema e consultar dados.
-
-4. **Professor**  
-   - Usuário que pode autenticar-se no sistema e consultar dados.
-
-5. **Fornecedor**  
-   - Usuário que pode autenticar-se no sistema e consultar dados.
+- **Administrador**: Responsável por gerenciar o sistema, incluindo criação, alteração e exclusão de usuários.
+- **Funcionário**: Pode cadastrar, consultar e alterar informações de pessoas físicas e jurídicas.
+- **Aluno**: Usuário que pode autenticar-se no sistema e consultar dados.
+- **Professor**: Usuário que pode autenticar-se no sistema e consultar dados.
+- **Fornecedor**: Usuário que pode autenticar-se no sistema e consultar dados.
 
 ---
 
 ## Requisitos do Sistema
-
-1. **Autenticação de Usuário**  
-   - Todo usuário deve estar autenticado para acessar funcionalidades do sistema.
-
-2. **Cadastro de Pessoas**  
-   - Deve permitir o cadastro de Pessoas Físicas e Jurídicas.
-
-3. **Consulta de Dados**  
-   - Usuários autenticados devem poder consultar informações pessoais.
-
-4. **Alteração de Dados**  
-   - Administradores e funcionários devem poder alterar dados de usuários.
-
-5. **Exclusão de Usuários**  
-   - Apenas administradores podem deletar usuários do sistema.
-
-6. **Validação de CPF e CNPJ**  
-   - O sistema deve verificar se o CPF ou CNPJ já está cadastrado e informar mensagens de erro quando necessário.
-
-7. **Recuperação de Senha**  
-   - Usuários devem poder recuperar sua conta em caso de esquecimento da senha.
-
-8. **Bloqueio após Tentativas de Login**  
-   - O sistema deve bloquear usuários após três tentativas malsucedidas de login.
+1. [Autenticação de Usuário](#uc003-autenticar-no-sistema)
+2. [Cadastro de Pessoas](#uc001-cadastrar-pessoa-física)
+3. [Consulta de Dados](#uc004-consultar-dados)
+4. [Alteração de Dados](#uc005-alterar-dados)
+5. [Exclusão de Usuários](#uc006-deletar-usuário)
+6. [Validação de CPF e CNPJ](#uc001-cadastrar-pessoa-física)
+7. [Recuperação de Senha](#fluxo-alternativo-3--usuário-esqueceu-a-senha)
+8. [Bloqueio após Tentativas de Login](#fluxo-de-exceção--excesso-de-tentativas)
 
 ---
 

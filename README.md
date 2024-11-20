@@ -1,4 +1,4 @@
-# Casos de Uso do Sistema
+# Sistema da Uninersidade
 
 Este projeto tem como objetivo apresentar um modelagem de um Sistema de Gestão de Dados para uma universidade fictícia.
 Esses processos são representados por diagramas UML, como o Diagrama de Casos de Uso e o Diagrama de Classes e a descriação dos cenários do programa.
@@ -28,16 +28,22 @@ Através dessa modelagem, é possível entender o processo de cadastro, consulta
 ---
 
 ## Telas do Sistema
-1 - Tela de login
-2 - Cadastra aluno (Através da tela de login)
-3 - Solicitar uma nova senha
-4 - Cadastrar uma nova senha
-5 - Tela de início
-6 - Meu cadastro
-7 - Cadastrar novo usuario
-8 - Consultar dados
-9 - Alteração de dados
-10- Deletar usuário
+1. [Tela de login](#1---tela-de-login)  
+2. [Cadastrar aluno (Através da tela de login)](#2---cadastrar-aluno-através-da-tela-de-login)  
+3. [Solicitar uma nova senha](#3---solicitar-uma-nova-senha)  
+4. [Cadastrar uma nova senha](#4---cadastrar-uma-nova-senha)  
+5. [Tela de início](#5---tela-de-início)  
+6. [Meu cadastro](#6---meu-cadastro)  
+7. [Cadastrar novo usuário](#7---cadastrar-novo-usuário)  
+8. [Consultar dados](#8---consultar-dados)  
+9. [Alteração de dados](#9---alteração-de-dados)  
+10. [Deletar usuário](#10---deletar-usuário)  
+
+---
+
+## Diagramas do Sistema
+1. [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)  
+2. [Diagrama de Classes](#diagrama-de-classes) 
 
 ---
 
@@ -210,3 +216,45 @@ Após 3 tentativas de login:
 1. No passo 3, se o sistema não encontrar usuários correspondentes ao CPF/CNPJ digitado:
 2. O sistema exibe uma mensagem informando que nenhum dado foi encontrado;
 3. Retorna ao passo 1 do fluxo básico.
+
+## Imagens das Telas do Sistema
+
+### 1 - Tela de login
+![Tela de login](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipNG2FDxK3HdJiHV8WOSpRjLVplK1Lnh4HZ11wfb)
+
+### 2 - Cadastrar aluno (Através da tela de login)
+![Cadastrar aluno](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPm5gm06gFfrjjit0gnLvzJUesazWThstIOyX19)
+
+### 3 - Solicitar uma nova senha
+![Solicitar uma nova senha](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipOTrnltRIIe3kQ_JOnV0Z1FCCBBDz0A1MpesAfq)
+
+### 4 - Cadastrar uma nova senha
+![Cadastrar uma nova senha](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipMuRzh375bwuMu03StBfs6gmmXXDmgYNlzZ-535)
+
+### 5 - Tela de início
+![Tela de início](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipMCWIIQWeEJwUwaoHisgW7Qy78zUcSlBs9LoVg_)
+
+### 6 - Meu cadastro
+![Meu cadastro](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipO0TGVr8-2Pnk2qpUsnCQvq2UHr-oaCM2EGXH06)
+
+### 7 - Cadastrar novo usuário
+![Cadastrar novo usuário](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPzzBT44IbifpJPxpVmOcmpzc1wRox6iWls72an)
+
+### 8 - Consultar dados
+![Consultar dados](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPr9pP1_dYUKP-OYKqdHpI15F-q2AgwwNBaRXhS)
+
+### 9 - Alteração de dados
+![Alteração de dados](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipMFYTccBpzb2lvtBXjRMeeeolCnjLXJoH0mvkBX)
+
+### 10 - Deletar usuário
+![Deletar usuário](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPomuxEWn1NEHNUjmpp3_HB68l2BE5GkciwWIl5)
+
+---
+
+## Diagramas do Sistema
+
+### Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPIam3TNTCB7KBXFnwdE5kjnCGWuW-SRhMoJx-y)
+
+### Diagrama de Classes
+![Diagrama de Classes](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipMwS63e8X4o7N9cuOYTuuGnAu6Bs4SNm47z_JgU)

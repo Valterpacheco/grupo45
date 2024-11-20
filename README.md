@@ -220,42 +220,41 @@ Após 3 tentativas de login:
 ## Imagens das Telas do Sistema
 
 ### 1 - Tela de login
-![Tela de login](URL-direta-da-imagem)
-![Descrição da Imagem](https://i.ibb.co/XYZ123/imagem.png)
+![Tela de login](https://i.ibb.co/stZGPXV/1-Tela-de-login.png)
 
-### 2 - Cadastrar aluno (Através da tela de login)
-![Cadastrar aluno](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPm5gm06gFfrjjit0gnLvzJUesazWThstIOyX19)
+### 2 - Cadastrar aluno
+![Cadastrar aluno](https://i.ibb.co/WFQ2DLK/2-Cadastra-aluno-Atrav-s-da-tela-de-login.png)
 
 ### 3 - Solicitar uma nova senha
-![Solicitar uma nova senha](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipOTrnltRIIe3kQ_JOnV0Z1FCCBBDz0A1MpesAfq)
+![Solicitar uma nova senha](https://i.ibb.co/S3gpnH7/3-Solicitar-uma-nova-senha.png)
 
 ### 4 - Cadastrar uma nova senha
-![Cadastrar uma nova senha](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipMuRzh375bwuMu03StBfs6gmmXXDmgYNlzZ-535)
+![Cadastrar uma nova senha](https://i.ibb.co/8ssL4MZ/4-Cadastrar-uma-nova-senha.png)
 
 ### 5 - Tela de início
-![Tela de início](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipMCWIIQWeEJwUwaoHisgW7Qy78zUcSlBs9LoVg_)
+![Tela de início](https://i.ibb.co/zRsqX0c/5-Tela-de-in-cio.png)
 
 ### 6 - Meu cadastro
-![Meu cadastro](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipO0TGVr8-2Pnk2qpUsnCQvq2UHr-oaCM2EGXH06)
+![Meu cadastro](https://i.ibb.co/8KndSKQ/6-Meu-cadastro.png)
 
 ### 7 - Cadastrar novo usuário
-![Cadastrar novo usuário](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPzzBT44IbifpJPxpVmOcmpzc1wRox6iWls72an)
+![Cadastrar novo usuário](https://i.ibb.co/hfkVVx7/7-Cadastrar-novo-usuario.png)
 
 ### 8 - Consultar dados
-![Consultar dados](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPr9pP1_dYUKP-OYKqdHpI15F-q2AgwwNBaRXhS)
+![Consultar dados](https://i.ibb.co/GFNfdWL/8-Consultar-dados.png)
 
 ### 9 - Alteração de dados
-![Alteração de dados](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipMFYTccBpzb2lvtBXjRMeeeolCnjLXJoH0mvkBX)
+![Alteração de dados](https://i.ibb.co/8j5FhZW/9-Altera-o-de-dados.png)
 
 ### 10 - Deletar usuário
-![Deletar usuário](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPomuxEWn1NEHNUjmpp3_HB68l2BE5GkciwWIl5)
+![Deletar usuário](https://i.ibb.co/MS3Rf98/10-Deletar-usu-rio.png)
 
 ---
 
 ## Diagramas do Sistema
 
 ### Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPIam3TNTCB7KBXFnwdE5kjnCGWuW-SRhMoJx-y)
+![Diagrama de Casos de Uso](https://i.ibb.co/q7tQm3w/Diagrama-caso-de-uso.png)
 
 ### Diagrama de Classes
-![Diagrama de Classes](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipMwS63e8X4o7N9cuOYTuuGnAu6Bs4SNm47z_JgU)
+![Diagrama de Classes](https://i.ibb.co/4FnCVHZ/Diagrama-de-classe.png)

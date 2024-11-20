@@ -220,7 +220,8 @@ Após 3 tentativas de login:
 ## Imagens das Telas do Sistema
 
 ### 1 - Tela de login
-![Tela de login](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipNG2FDxK3HdJiHV8WOSpRjLVplK1Lnh4HZ11wfb)
+![Tela de login](URL-direta-da-imagem)
+![Descrição da Imagem](https://i.ibb.co/XYZ123/imagem.png)
 
 ### 2 - Cadastrar aluno (Através da tela de login)
 ![Cadastrar aluno](https://photos.google.com/album/AF1QipM3xN-wXJz2SoTyoKBXM5aWrnGfIyEPvd4u-Qnt/photo/AF1QipPm5gm06gFfrjjit0gnLvzJUesazWThstIOyX19)

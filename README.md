@@ -1,5 +1,9 @@
 # Casos de Uso do Sistema
 
+Este projeto tem como objetivo apresentar um modelagem de um Sistema de Gestão de Dados para uma universidade fictícia.
+Esses processos são representados por diagramas UML, como o Diagrama de Casos de Uso e o Diagrama de Classes e a descriação dos cenários do programa.
+Através dessa modelagem, é possível entender o processo de cadastro, consulta e exclusão de dados, de pessoas físicas e jurídicas, que podem ser realizados. 
+
 ---
 
 ## Atores
@@ -11,15 +15,29 @@
 
 ---
 
-## Requisitos do Sistema
-1. [Autenticação de Usuário](#uc003-autenticar-no-sistema)
-2. [Cadastro de Pessoas](#uc001-cadastrar-pessoa-física)
-3. [Consulta de Dados](#uc004-consultar-dados)
-4. [Alteração de Dados](#uc005-alterar-dados)
-5. [Exclusão de Usuários](#uc006-deletar-usuário)
-6. [Validação de CPF e CNPJ](#uc001-cadastrar-pessoa-física)
-7. [Recuperação de Senha](#fluxo-alternativo-3--usuário-esqueceu-a-senha)
-8. [Bloqueio após Tentativas de Login](#fluxo-de-exceção--excesso-de-tentativas)
+## Cenários do Sistema
+1. [[UC001] Autenticação de Usuário](#uc003-autenticar-no-sistema)
+2. [[UC002] Cadastro de Pessoas](#uc001-cadastrar-pessoa-física)
+3. [[UC003] Consulta de Dados](#uc004-consultar-dados)
+4. [[UC004] Alteração de Dados](#uc005-alterar-dados)
+5. [[UC005] Exclusão de Usuários](#uc006-deletar-usuário)
+6. [[UC006] Validação de CPF e CNPJ](#uc001-cadastrar-pessoa-física)
+7. [[UC007] Recuperação de Senha](#fluxo-alternativo-3--usuário-esqueceu-a-senha)
+8. [[UC008] Bloqueio após Tentativas de Login](#fluxo-de-exceção--excesso-de-tentativas)
+
+---
+
+## Telas do Sistema
+1 - Tela de login
+2 - Cadastra aluno (Através da tela de login)
+3 - Solicitar uma nova senha
+4 - Cadastrar uma nova senha
+5 - Tela de início
+6 - Meu cadastro
+7 - Cadastrar novo usuario
+8 - Consultar dados
+9 - Alteração de dados
+10- Deletar usuário
 
 ---
 

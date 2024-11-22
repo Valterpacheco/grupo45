@@ -50,11 +50,8 @@ Através dessa modelagem, é possível entender o processo de cadastro, consulta
 ## [UC001] Cadastrar Pessoa Física
 
 **Atores:** Administrador, Funcionário  
-**Pré-condições:**  
-- Estar logado no sistema ([UC006 – Autenticar no sistema])  
-
-**Pós-condições:**  
-- Cadastra nova Pessoa Física  
+**Pré-condições:** Estar logado no sistema ([UC006 – Autenticar no sistema])  
+**Pós-condições:** Cadastra nova Pessoa Física  
 
 ### Fluxo Básico
 
@@ -76,11 +73,8 @@ Através dessa modelagem, é possível entender o processo de cadastro, consulta
 ## [UC002] Cadastrar Pessoa Jurídica
 
 **Atores:** Administrador, Funcionário  
-**Pré-condições:**  
-- Estar logado no sistema ([UC006 – Autenticar no sistema])  
-
-**Pós-condições:**  
-- Cadastra nova Pessoa Jurídica  
+**Pré-condições:** Estar logado no sistema ([UC006 – Autenticar no sistema])  
+**Pós-condições:** Cadastra nova Pessoa Jurídica  
 
 ### Fluxo Básico
 
@@ -102,11 +96,8 @@ Através dessa modelagem, é possível entender o processo de cadastro, consulta
 ## [UC003] Autenticar no Sistema
 
 **Atores:** Administrador, Funcionário, Aluno, Professor e Fornecedor  
-**Pré-condições:**  
-- Cliente com conta cadastrada no sistema  
-
-**Pós-condições:**  
-- Usuário autenticado  
+**Pré-condições:** Cliente com conta cadastrada no sistema  
+**Pós-condições:** Usuário autenticado  
 
 ### Fluxo Básico
 
@@ -153,11 +144,8 @@ Após 3 tentativas de login:
 ## [UC004] Consultar Dados
 
 **Atores:** Administrador, Funcionário, Aluno, Professor e Fornecedor  
-**Pré-condições:**  
-- Estar logado no sistema ([UC003 – Autenticar no sistema])  
-
-**Pós-condições:**  
-- Dados listados  
+**Pré-condições:** Estar logado no sistema ([UC003 – Autenticar no sistema])  
+**Pós-condições:** Dados listados  
 
 ### Fluxo Básico
 
@@ -169,11 +157,8 @@ Após 3 tentativas de login:
 ## [UC005] Alterar Dados
 
 **Atores:** Administrador, Funcionário  
-**Pré-condições:**  
-- Estar logado no sistema ([UC006 – Autenticar no sistema])  
-
-**Pós-condições:**  
-- Dados alterados  
+**Pré-condições:** Estar logado no sistema ([UC006 – Autenticar no sistema])  
+**Pós-condições:** Dados alterados  
 
 ### Fluxo Básico
 
@@ -197,11 +182,8 @@ Após 3 tentativas de login:
 ## [UC006] Deletar Usuário
 
 **Atores:** Administrador  
-**Pré-condições:**  
-- Estar logado no sistema ([UC006 – Autenticar no sistema])  
-
-**Pós-condições:**  
-- Usuário deletado  
+**Pré-condições:** Estar logado no sistema ([UC006 – Autenticar no sistema])  
+**Pós-condições:** Usuário deletado  
 
 ### Fluxo Básico
 

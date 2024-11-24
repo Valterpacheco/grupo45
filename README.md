@@ -1,4 +1,4 @@
-# Sistema da Uninersidade
+# Sistema da Universidade
 
 Este projeto tem como objetivo apresentar um modelagem de um Sistema de Gestão de Dados para uma universidade fictícia.
 Esses processos são representados por diagramas UML, como o Diagrama de Casos de Uso e o Diagrama de Classes e a descriação dos cenários do programa.
